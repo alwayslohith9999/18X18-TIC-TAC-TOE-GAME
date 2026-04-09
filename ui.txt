@@ -1,0 +1,36 @@
+Design a modern "liquid glass" user interface with a futuristic aesthetic.
+
+Style:
+- Transparent glassmorphism with soft blur (frosted glass effect)
+- Subtle light refraction and reflections
+- Smooth gradients (blue, cyan, violet tones)
+- Soft glowing edges and highlights
+- Depth using layered translucent panels
+- Minimalistic and clean layout
+
+Components:
+- Floating glass cards with rounded corners
+- Semi-transparent navigation bar with blur background
+- Soft neon buttons with hover glow
+- Glass input fields with inner shadows
+- Subtle animated light streaks
+
+Lighting:
+- Soft ambient lighting
+- Reflections and highlights like real glass
+- Slight glow around edges for depth
+
+Background:
+- Dark gradient or abstract fluid background
+- Optional light rays or particles
+
+UX:
+- Clean spacing, balanced layout
+- Focus on readability despite transparency
+- Modern typography (thin, sans-serif)
+
+Mood:
+- Premium, futuristic, Apple-like, smooth, immersive
+
+Resolution:
+- High resolution, ultra-detailed UI mockup
